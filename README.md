@@ -1,2 +1,2 @@
-# Informacion-para-Grooming
+# Grooming
 Pagina informativa sobre el grooming.
